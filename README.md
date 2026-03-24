@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me , contact = 8847608318
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: I'm trying to be GameDev, as it in process teaches alot
 
 <!---
 Joymon-0/Joymon-0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
